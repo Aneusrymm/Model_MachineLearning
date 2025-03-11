@@ -1,1 +1,1 @@
-Create Model Machine Learning Using LogisticRegression
+Create Model Machine Learning Classification Using LogisticRegression and NaiveBayes
